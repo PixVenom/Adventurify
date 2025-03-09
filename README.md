@@ -1,4 +1,4 @@
-﻿# Adventurify - An Adventure Game
+# Adventurify - An Adventure Game
 
 ## Description
 
@@ -7,9 +7,9 @@ Adventurify is a text-based adventure game built in C# where players can choose 
 ## Features
 
 - Three playable character types:
-    - **Warrior**: Faces battles and must make strategic decisions.
-    - **Wizard**: Has magical abilities but must manage magic points wisely.
-    - **Archer**: Engages in exploration and survival-based challenges.
+  - **Warrior**: Faces battles and must make strategic decisions.
+  - **Wizard**: Has magical abilities but must manage magic points wisely.
+  - **Archer**: Engages in exploration and survival-based challenges.
 - Interactive decision-making system where choices impact the outcome.
 - Multiple endings depending on the player's actions.
 
@@ -18,9 +18,9 @@ Adventurify is a text-based adventure game built in C# where players can choose 
 1. Run the program in a C#-supported environment.
 2. Name your character.
 3. Choose a character type:
-    - Warrior (1)
-    - Wizard (2)
-    - Archer (3)
+   - Warrior (1)
+   - Wizard (2)
+   - Archer (3)
 4. Make decisions during the game when prompted.
 5. Try to survive and win the game!
 
@@ -44,9 +44,9 @@ Adventurify is a text-based adventure game built in C# where players can choose 
 
 - `Main()` function initializes the game and allows the player to choose their character type.
 - Separate functions for each character type handle their unique storylines:
-    - `warrior()`
-    - `wizard()`
-    - `archer()`
+  - `warrior()`
+  - `wizard()`
+  - `archer()`
 - Nested functions for different actions and scenarios.
 
 ## Known Issues
@@ -67,3 +67,4 @@ This project is open-source and free to use for educational and learning purpose
 ## Author
 
 Developed by Arryan Malhotra.
+
